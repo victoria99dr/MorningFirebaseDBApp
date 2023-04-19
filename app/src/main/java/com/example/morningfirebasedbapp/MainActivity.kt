@@ -25,6 +25,7 @@ class MainActivity : AppCompatActivity() {
         btnSave = findViewById(R.id.mBtnSave)
         btnView = findViewById(R.id.mBtnView)
         progressDialog = ProgressDialog(this)
+        progressDialog.setTitle("Saving")
         progressDialog.setMessage("Please wait...")
         btnSave.setOnClickListener {
             var name = edtName.text.toString().trim()

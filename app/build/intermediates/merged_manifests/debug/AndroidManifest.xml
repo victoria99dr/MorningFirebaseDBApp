@@ -35,6 +35,9 @@
         android:testOnly="true"
         android:theme="@style/Theme.MorningFirebaseDBApp" >
         <activity
+            android:name="com.example.morningfirebasedbapp.UserupdateActivity"
+            android:exported="false" />
+        <activity
             android:name="com.example.morningfirebasedbapp.UsersActivity"
             android:exported="false" />
         <activity

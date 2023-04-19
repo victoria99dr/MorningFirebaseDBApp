@@ -1,4 +1,4 @@
-#Wed Apr 19 07:45:15 EAT 2023
+#Wed Apr 19 09:38:55 EAT 2023
 base.0=/home/emobilis/Downloads/Morning-Firebase-DB-App-master/app/build/intermediates/dex/debug/mergeDexDebug/classes.dex
 base.1=/home/emobilis/Downloads/Morning-Firebase-DB-App-master/app/build/intermediates/dex/debug/mergeDexDebug/classes2.dex
 path.0=classes.dex

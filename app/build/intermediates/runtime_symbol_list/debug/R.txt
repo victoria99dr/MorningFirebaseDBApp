@@ -3086,6 +3086,7 @@ int id m3_side_sheet 0x7f0800f2
 int id mBtnDelete 0x7f0801f7
 int id mBtnSave 0x7f0800f3
 int id mBtnUpdate 0x7f0801f8
+int id mBtnUserUpdate 0x7f0801fd
 int id mBtnView 0x7f0800f4
 int id mEdtEmail 0x7f0800f5
 int id mEdtIdNumber 0x7f0800f6
@@ -3458,6 +3459,7 @@ int layout abc_select_dialog_material 0x7f0b001a
 int layout abc_tooltip 0x7f0b001b
 int layout activity_main 0x7f0b001c
 int layout activity_users 0x7f0b006a
+int layout activity_userupdate 0x7f0b006c
 int layout custom_dialog 0x7f0b001d
 int layout design_bottom_navigation_item 0x7f0b001e
 int layout design_bottom_sheet_dialog 0x7f0b001f

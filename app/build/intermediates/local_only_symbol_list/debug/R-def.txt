@@ -12,6 +12,7 @@ drawable ic_launcher_foreground
 id mBtnDelete
 id mBtnSave
 id mBtnUpdate
+id mBtnUserUpdate
 id mBtnView
 id mEdtEmail
 id mEdtIdNumber
@@ -22,6 +23,7 @@ id mTvName
 id mTvidNumber
 layout activity_main
 layout activity_users
+layout activity_userupdate
 layout user_layout
 mipmap ic_launcher
 mipmap ic_launcher_foreground
